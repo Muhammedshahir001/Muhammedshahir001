@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **FrameWorks**
 
-- 👨‍💻 All of my projects are available at [https://endearing-dodol-442914.netlify.app/](https://endearing-dodol-442914.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shahir1-portfolio.netlify.app/](https://shahir1-portfolio.netlify.app/)
 
 - 💬 Ask me about **React.js, JavaScript,MongoDB,Express.js, Node.js**
 
 - 📫 How to reach me **muhammedshahir91@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-SRofxWXHiV3cfwbZ8dfJ_JY9L7RUilV/view?usp=sharing](https://drive.google.com/file/d/1-SRofxWXHiV3cfwbZ8dfJ_JY9L7RUilV/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LP8SV9yHUcByzuTQ8lZLUJbRk2m26KBg/view?usp=sharing](https://drive.google.com/file/d/1LP8SV9yHUcByzuTQ8lZLUJbRk2m26KBg/view?usp=sharing)
 
 - ⚡Fun fact **I'm Funny😊**
 
